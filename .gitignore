@@ -1,0 +1,13 @@
+# 🙈 Dependencies
+node_modules/
+package-lock.json
+
+# 📦 Build Artifacts
+dist/
+build/
+
+# 🧩 Other
+.DS_Store
+.env
+.gemini
+*.log
